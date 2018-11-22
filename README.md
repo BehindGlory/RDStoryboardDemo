@@ -1,4 +1,8 @@
-# RDStoryboardDemo
+我在开发中一直在使用Storyboard，代码中绝大多数的UIViewController是用Storyboard创建的。在这里分享一些我使用Storyboard的经验。
+
+##创建Storyboard
+
+在项目中command+N，弹出如下页面，选中Storyboard然后点击Next给Storyboard命名，创建完成。
 
 ![图1](http://upload-images.jianshu.io/upload_images/7001298-c8151d03cad11223?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
